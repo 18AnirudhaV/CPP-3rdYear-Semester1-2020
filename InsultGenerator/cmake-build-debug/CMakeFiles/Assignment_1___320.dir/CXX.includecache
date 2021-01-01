@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aniru/OneDrive/Desktop/Assignment 1 - 320/insultgenerator_18av8.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+cstdlib
+-
+insultgenerator_18av8.h
+C:/Users/aniru/OneDrive/Desktop/Assignment 1 - 320/insultgenerator_18av8.h
+
+C:/Users/aniru/OneDrive/Desktop/Assignment 1 - 320/insultgenerator_18av8.h
+string
+-
+vector
+-
+
