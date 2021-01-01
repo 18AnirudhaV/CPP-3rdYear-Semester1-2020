@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aniru/OneDrive - Queen's University/3rd Year/CISC 320/a4/JumblePuzzle.h
+iostream
+-
+string
+-
+cstdlib
+-
+ctime
+-
+
+C:/Users/aniru/OneDrive - Queen's University/3rd Year/CISC 320/a4/testJumble.cpp
+string
+-
+iostream
+-
+ctime
+-
+JumblePuzzle.h
+C:/Users/aniru/OneDrive - Queen's University/3rd Year/CISC 320/a4/JumblePuzzle.h
+
