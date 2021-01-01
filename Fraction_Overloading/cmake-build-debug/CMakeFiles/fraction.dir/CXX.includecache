@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aniru/OneDrive - Queen's University/3rd Year/CISC 324/fraction/FractionTest.cpp
+iostream
+-
+fraction_18av8.h
+C:/Users/aniru/OneDrive - Queen's University/3rd Year/CISC 324/fraction/fraction_18av8.h
+
+C:/Users/aniru/OneDrive - Queen's University/3rd Year/CISC 324/fraction/fraction_18av8.h
+iostream
+-
+fstream
+-
+string
+-
+cstdlib
+-
+
