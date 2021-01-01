@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aniru/OneDrive - Queen's University/3rd Year/CISC 320/Assignment_5/ShapesGood.cpp
+string
+-
+iostream
+-
+ShapesGood.h
+C:/Users/aniru/OneDrive - Queen's University/3rd Year/CISC 320/Assignment_5/ShapesGood.h
+
+C:/Users/aniru/OneDrive - Queen's University/3rd Year/CISC 320/Assignment_5/ShapesGood.h
+string
+-
+
